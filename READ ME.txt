@@ -1,0 +1,1 @@
+Repository ini berisikan percobaan Deep Learning yang saya lakukan menggunakan Tensorflow 2.0. Data yang digunakan merupakan data asteroid yang berasal dari Kaggle
